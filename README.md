@@ -21,7 +21,7 @@ Record Project from Sturktur Data dan Algoritma
     alt="Panel KK" style="float: left; margin-right: 10px;"
     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlTiketKTP.jpg"
     alt="Panel Tiket KTP" style="float: left; align: center; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlTiketKK.jpeg"
+    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlTiketKK.jpg"
     alt="Panel Tiket KK" style="float: left; margin-right: 10px;"
     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlAboutUser.jpeg"
     alt="About User" style="float: left; margin-right: 10px;"
