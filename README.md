@@ -20,7 +20,7 @@ Record Project from Sturktur Data dan Algoritma
     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlKK.jpeg"
     alt="Panel KK" style="float: left; margin-right: 10px;"
     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlTiketKTP.jpg"
-    alt="Panel Tiket KTP" style="float: left-center; margin-right: 10px;"
+    alt="Panel Tiket KTP" style="float: left; margin-right: 10px;"
     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlTiketKK.jpeg"
     alt="Panel Tiket KK" style="float: left; margin-right: 10px;"
     width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlAboutUser.jpeg"
