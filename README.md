@@ -2,7 +2,7 @@
 Repository for Implementation of Queue Algorithm with Java GUI
 
 ## Purpose
-Record Project from Sturktur Data dan Algoritma
+Record Project from Struktur Data dan Algoritma
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Welcome.png"
