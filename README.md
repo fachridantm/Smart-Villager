@@ -36,9 +36,10 @@ Record Project from Struktur Data dan Algoritma
     width="200" />
 
 ## Instalation & Run
-Clone this repository and open folder dist and open SmartVillager.jar with JRE (make sure you have JRE to run .jar file)
-``````````````````````````````````````````````````````````
-https://github.com/fachridantm/Smart-Villager/releases/download/1.0.0/Smart.Villager.exe
-``````````````````````````````````````````````````````````
+Download [here](https://github.com/fachridantm/Smart-Villager/releases/download/1.0.0/Smart.Villager.exe  
+) to install and run app on your desktop shortcut
+  
+**Notes** : **Make sure you have JRE to run .jar file!**
+
 ## Author
 * #### Fachridan Tio Mu'afa
