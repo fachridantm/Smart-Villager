@@ -38,7 +38,7 @@ Record Project from Struktur Data dan Algoritma
 ## Instalation & Run
 Clone this repository and open folder dist and open SmartVillager.jar with JRE (make sure you have JRE to run .jar file)
 ``````````````````````````````````````````````````````````
-https://github.com/fachridantm/Smart-Villager.git
+https://github.com/fachridantm/Smart-Villager/releases/download/1.0.0/Smart.Villager.exe
 ``````````````````````````````````````````````````````````
 ## Author
 * #### Fachridan Tio Mu'afa
