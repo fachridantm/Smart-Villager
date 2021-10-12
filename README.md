@@ -42,4 +42,7 @@ Download [here](https://github.com/fachridantm/Smart-Villager/releases/download/
 **Notes** : **Make sure you have JRE to run .jar file!**
 
 ## Author
-* #### Fachridan Tio Mu'afa
+* #### Fachridan Tio Mu'afa (Developer)
+* #### Royan Farojan (UI Designer)
+* #### Revi Maulana (System Analyst)
+* #### Rahmalia Putri (System Analyst)
