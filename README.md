@@ -1,5 +1,5 @@
 # Smart Villager
-Repository for Implementation of Queue Algorithm with Java GUI
+Repository for Implementation of Queue Algorithm using Java GUI
 
 ## Purpose
 Record Project from Struktur Data dan Algoritma
@@ -35,7 +35,7 @@ Record Project from Struktur Data dan Algoritma
     alt="About Operator" style="float: left; margin-right: 10px;"
     width="200" />
 
-## Instalation & Run
+## Installation & Run
 Download [here](https://github.com/fachridantm/Smart-Villager/releases/download/1.0.0/Smart.Villager.exe) to install and run app on your desktop shortcut
   
 **Notes** : **Make sure you have JRE to run .jar file!**
