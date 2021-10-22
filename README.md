@@ -1,8 +1,8 @@
 # Smart Villager
-Repository for Implementation of Queue Algorithm using Java GUI
+Repository for Desktop Application for Implementation of Queue Algorithm using Java GUI
 
 ## Purpose
-Record Project from Struktur Data dan Algoritma
+Record Project from Final Project of Data Structures and Algorithms course
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Welcome.png"
