@@ -5,38 +5,14 @@ Repository for Desktop Application for Implementation of Queue Algorithm using J
 Record Project from Final Project of Data Structures and Algorithms course
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Welcome.png"
-    alt="Splash Screen" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlHomeLogin.jpeg"
-    alt="Home Login" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlLoginUser.jpeg"
-    alt="Login User" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlLoadingUser.jpeg"
-    alt="Loading User" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlHomeUser.jpeg"
-    alt="Home User" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlKTP.jpeg"
-    alt="Panel KTP" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlKK.jpeg"
-    alt="Panel KK" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlTiketKTP.jpg"
-    alt="Panel Tiket KTP" style="float: left; align: center; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlTiketKK.jpg"
-    alt="Panel Tiket KK" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlAboutUser.jpeg"
-    alt="About User" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlLoginOperator.jpeg"
-    alt="Login Operator" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlLoadingOperator.jpeg"
-    alt="Loading Operator" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlPanggilan.jpeg"
-    alt="Panel Panggilan" style="float: left; margin-right: 10px;"
-    width="200" /> <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/pnlAboutOperator.jpeg"
-    alt="About Operator" style="float: left; margin-right: 10px;"
-    width="200" />
+![Dribbble](https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Dribbble.png)&nbsp;
+![Github-1](https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Github-1.png)&nbsp;
+![Github-2](https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Github-2.png)&nbsp;
+![Github-3](https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Github-3.png)&nbsp;
+![Github-4](https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Github-4.png)&nbsp;
 
-## Installation & Run
-Download [here](https://github.com/fachridantm/Smart-Villager/releases/download/1.0.0/Smart.Villager.exe) to install and run app on your desktop shortcut
+## Download & Installation
+Download [here](https://github.com/fachridantm/Smart-Villager/releases/download/1.0.0/Smart.Villager.exe) to install and run app on your PC.
   
 **Notes** : **Make sure you have JRE to run .jar file!**
 
